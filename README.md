@@ -14,6 +14,29 @@ ClickCraft is a full-stack AI-powered web application that helps users create ey
 
 ---
 
+## 📸 Screenshots
+
+<img width="1898" height="913" alt="Screenshot 1" src="https://github.com/user-attachments/assets/072d0f30-34ad-4c45-bc70-63a521805f8e" />
+
+<img width="1889" height="899" alt="Screenshot 2" src="https://github.com/user-attachments/assets/66291680-018f-4223-bfc2-bba63fab9c05" />
+
+<img width="1882" height="906" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c023b1ba-0474-4185-b2d5-353af8ffe36a" />
+
+<img width="1903" height="903" alt="Screenshot 4" src="https://github.com/user-attachments/assets/568e7f2c-9daf-48d1-9c21-771d3d588505" />
+
+<img width="1890" height="906" alt="Screenshot 5" src="https://github.com/user-attachments/assets/75d881e5-b1cd-4a1b-83c6-a8701429b478" />
+
+<img width="1901" height="897" alt="Screenshot 6" src="https://github.com/user-attachments/assets/2413c09d-91d5-437a-b4da-436ba084f112" />
+
+<img width="1910" height="964" alt="Screenshot 7" src="https://github.com/user-attachments/assets/dfb4956e-d52a-425d-86ea-1c410091cd9b" />
+
+<img width="1894" height="914" alt="Screenshot 8" src="https://github.com/user-attachments/assets/5e4e6ab9-bc47-42e2-893a-1fcfde4b5c2c" />
+
+
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/5Yd4xUNa6eA/maxresdefault.jpg)](https://youtu.be/5Yd4xUNa6eA)
+
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -114,21 +137,3 @@ Feel free to fork this project and contribute!
 
 If you like this project, give it a ⭐ on GitHub!
 
----
-## 📸 Screenshots
-
-<img width="1898" height="913" alt="Screenshot 1" src="https://github.com/user-attachments/assets/072d0f30-34ad-4c45-bc70-63a521805f8e" />
-
-<img width="1889" height="899" alt="Screenshot 2" src="https://github.com/user-attachments/assets/66291680-018f-4223-bfc2-bba63fab9c05" />
-
-<img width="1882" height="906" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c023b1ba-0474-4185-b2d5-353af8ffe36a" />
-
-<img width="1903" height="903" alt="Screenshot 4" src="https://github.com/user-attachments/assets/568e7f2c-9daf-48d1-9c21-771d3d588505" />
-
-<img width="1890" height="906" alt="Screenshot 5" src="https://github.com/user-attachments/assets/75d881e5-b1cd-4a1b-83c6-a8701429b478" />
-
-<img width="1901" height="897" alt="Screenshot 6" src="https://github.com/user-attachments/assets/2413c09d-91d5-437a-b4da-436ba084f112" />
-
-<img width="1910" height="964" alt="Screenshot 7" src="https://github.com/user-attachments/assets/dfb4956e-d52a-425d-86ea-1c410091cd9b" />
-
-<img width="1894" height="914" alt="Screenshot 8" src="https://github.com/user-attachments/assets/5e4e6ab9-bc47-42e2-893a-1fcfde4b5c2c" />
