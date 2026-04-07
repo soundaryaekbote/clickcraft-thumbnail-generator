@@ -32,6 +32,7 @@ ClickCraft is a full-stack AI-powered web application that helps users create ey
 
 <img width="1894" height="914" alt="Screenshot 8" src="https://github.com/user-attachments/assets/5e4e6ab9-bc47-42e2-893a-1fcfde4b5c2c" />
 
+---
 
 ## 🎥 Demo Video
 
